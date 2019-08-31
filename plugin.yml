@@ -1,0 +1,6 @@
+name: VariableSk
+author: jih10157
+main: com.jih10157.VariableSk.Main
+version: 1.0.0
+description: Skript 변수 애드온
+depend: [Skript]
